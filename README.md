@@ -33,7 +33,7 @@ A modular interactive curriculum platform for learning about IBM AI tools includ
     ```
 
 2. **Running locally:**
-    - Open `index.html` (or `ibm-ai-tools-index.html`) in your browser.
+    - Open `index.html` in your browser.
     - All functionality is included and client-side.
 
 3. **Optional: Host on GitHub Pages**
