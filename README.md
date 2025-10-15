@@ -28,7 +28,7 @@ A modular interactive curriculum platform for learning about IBM AI tools includ
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/yourusername/ibm-ai-tools-hub.git
+   (https://auditwiz.github.io/start_your_ai_journey/)](https://auditwiz.github.io/start_your_ai_journey/)
     cd ibm-ai-tools-hub
     ```
 
